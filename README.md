@@ -15,11 +15,11 @@ An android application for buying grocery online from near by shops, In it selle
 
 |                         Cart                         |                        Order Details                  |                      Shop Review                      |
 | :--------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
-|         <img src="Screenshots/6.cart.jpg">           |        <img src="Screenshots/8.odetails.jpg">         |         <img src="Screenshots/9.reviews.jpg">         |
+|         <img src="Screenshots/6.cart.jpg">           |        <img src="Screenshots/7.odetails.jpg">         |         <img src="Screenshots/9.reviews.jpg">         |
 
 |                   Seller Product Details             |                Seller Add/Update products             |            Seller Edit-Confirmation                   |
 | :--------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
-|        <img src="Screenshots/12.pdetails.jpg">       |         <img src="Screenshots/13.add.jpg">            |           <img src="Screenshots/blank.jpg">           |
+|        <img src="Screenshots/12.pdetails.jpg">       |         <img src="Screenshots/13.add.jpg">            |   <img src="Screenshots/14.seller_Edit_order.jpg">    |
 
 ## APK :
 [Apk link](https://drive.google.com/file/d/1l18Rs5QVvqe2qALZIIO-ACY7EGph_7_C/view?usp=sharing)
