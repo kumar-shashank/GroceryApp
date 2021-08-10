@@ -1,7 +1,7 @@
 # GroceryApp
 E-Grocery App in Android Studio Java
 An android application for buying grocery online from near by shops, In it seller are also able to register their shop.<br />
-## Technology/ Stack used :
+## Technology/ Stack used :mortar_board:
 - Java 
 - XML
 - firebase
